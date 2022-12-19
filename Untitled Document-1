@@ -1,0 +1,37 @@
+{
+	"id": "JSON_plus_plus",
+	"name": "JSON++",
+	"description-short": "JSON++",
+	"description": "",
+	"icon": "icon.png",
+	"cover": "",
+	"version": "v1.4",
+	"category": "",
+	"tags": "gamepads, joysticks, vibration, rumble, haptics, nwjs, electron",
+	"paid": "yes",
+	"price-usd": "3",
+	"price-flof": "",
+	"available": "unreleased",
+	"dl-url": [{
+		"c2": "",
+		"c3": ""
+	}],
+	"alternatestore-url": "https://armaldio.itch.io/gamepad-rumble/purchase",
+	"publisher": [{
+		"name": "PlayLive",
+		"eth-address": ""
+	}],
+	"screenshots": [{}],
+	"constructprojectexamples": [{
+		"example": {
+			"name": "Example (.capx and .apps)",
+			"dl-url": [{
+				"c2": "ipfs://QmYABzSfjrKyympqTjiWdA8x3PRg4kpvKxtRjR5K9LsPMR",
+				"apps": ""
+			}],
+			"play-url": "ipfs://QmdfhVbigjn3hy2Yh9EFBMw1MuHdPNcX6SGB91y9UxtN3C",
+			"screenshots": [{}]
+		}
+	}],
+	"help-url": "https://www.construct.net/br/forum/extending-construct-2/addons-29/plugin-json-114772"
+}
